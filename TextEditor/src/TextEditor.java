@@ -192,7 +192,6 @@ public class TextEditor extends JFrame implements ActionListener
 	
 		if(saveCheck() == true)
 		{
-			System.out.println("True");
 			{
 				try
 				{
